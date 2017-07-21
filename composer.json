@@ -1,5 +1,5 @@
 {
-    "name": "lucleroy/php-regex",
+    "name": "acken2/php-regex",
     "description": "PHP Regular Expressions Builder",
     "type": "library",
     "keywords": [
@@ -11,9 +11,13 @@
         {
             "name": "Luc Leroy",
             "email": "lucleroy2001@gmail.com"
+        },
+        {
+            "name": "Ken Sze",
+            "email": "acken2@outlook.com"
         }
     ],
-    "homepage": "https://github.com/lucleroy/php-regex",
+    "homepage": "https://github.com/ACken2/php-regex",
     "autoload": {
         "psr-4": {
             "LucLeroy\\Regex\\": "src"
