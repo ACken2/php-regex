@@ -1,6 +1,10 @@
-# FluentRegex
+# FluentRegex (Forked)
 
 PHP library with fluent interface to build regular expressions.
+
+## Disclaimer
+
+This repo is a forked version of [lucleroy/php-regex](https://github.com/lucleroy/php-regex) and is slightly modified such that it does not throw error in PHP strict mode. You can always refer to the original repo at https://github.com/lucleroy/php-regex.
 
 ## Table of contents
 
